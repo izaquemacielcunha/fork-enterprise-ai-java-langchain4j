@@ -19,6 +19,7 @@ Você será redirecionado para a tela de autenticação. Faça o login utilizand
 ### Passo 3: Aceitar os Termos de Serviço
 
 Na tela de boas-vindas, leia as informações sobre o uso de dados e políticas. Marque a caixa de seleção para confirmar que você tem mais de 18 anos e concorda com os termos. Em seguida, clique no botão **"Continue"**.
+
 ![Passo 3](./imgs/3.png)
 
 ### Passo 4: Pular a introdução (Opcional)
