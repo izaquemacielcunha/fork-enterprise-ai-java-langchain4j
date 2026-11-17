@@ -8,36 +8,37 @@
 
 Acesse o site oficial do Google AI Studio através do link <https://aistudio.google.com>. Na página inicial, clique no botão **"Get started"** localizado no canto superior direito.
 
-![Passo 1](./docs/imgs/1.png)
+![Passo 1](./imgs/1.png)
 
 ### Passo 2: Fazer Login
 
 Você será redirecionado para a tela de autenticação. Faça o login utilizando as credenciais da sua Conta do Google.
 
-![Passo 2](./docs/imgs/2.png)
+![Passo 2](./imgs/2.png)
 
 ### Passo 3: Aceitar os Termos de Serviço
 
 Na tela de boas-vindas, leia as informações sobre o uso de dados e políticas. Marque a caixa de seleção para confirmar que você tem mais de 18 anos e concorda com os termos. Em seguida, clique no botão **"Continue"**.
-![Passo 3](./docs/imgs/3.png)
+
+![Passo 3](./imgs/3.png)
 
 ### Passo 4: Pular a introdução (Opcional)
 
 O sistema perguntará o que traz você ao Google AI Studio ("What brings you to Google AI Studio?"). Você pode explorar as opções ou simplesmente clicar no botão **"Skip"** no canto inferior esquerdo para ir direto ao painel.
 
-![Passo 4](./docs/imgs/4.png)
+![Passo 4](./imgs/4.png)
 
 ### Passo 5: Acessar o menu de API
 
 No painel principal (Dashboard) do Google AI Studio, olhe para o menu de navegação lateral esquerdo. Role até a parte inferior e clique no **ícone de chave** para acessar a seção de chaves de API.
 
-![Passo 5](./docs/imgs/5.png)
+![Passo 5](./imgs/5.png)
 
 ### Passo 6: Iniciar a criação da chave
 
 Na página "API Keys", você verá uma lista (vazia, se for a primeira vez) das suas chaves. Clique no botão **"Create API key"** no canto superior direito da tela.
 
-![Passo 6](./docs/imgs/6.png)
+![Passo 6](./imgs/6.png)
 
 ### Passo 7: Configurar e Gerar a Chave
 
@@ -47,13 +48,13 @@ Uma janela modal chamada "Create a new key" aparecerá.
 2. No campo **"Choose an imported project"**, você pode manter o projeto padrão do Gemini.
 3. Clique no botão **"Create key"** para finalizar.
 
-![Passo 7](./docs/imgs/7.png)
+![Passo 7](./imgs/7.png)
 
 ### Passo 8: Copiar a API Key
 
 Pronto! A janela de detalhes da sua nova API Key será exibida. Clique no botão **"Copy key"** para copiá-la para a sua área de transferência. Guarde esta chave em um local seguro (como variáveis de ambiente no seu projeto) e nunca a exponha publicamente em repositórios de código.
 
-![Passo 8](./docs/imgs/8.png)
+![Passo 8](./imgs/8.png)
 
 ### ⚠️ Aviso Importante (Disclaimer)
 
